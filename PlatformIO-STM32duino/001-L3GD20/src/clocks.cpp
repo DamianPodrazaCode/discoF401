@@ -2,6 +2,7 @@
 
 #ifdef __cplusplus
 extern "C" {
+    
 #endif
     // 84MHz, dla USB i bez USB
     void SystemClock_Config(void) {
